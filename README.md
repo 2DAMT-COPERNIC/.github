@@ -16,7 +16,7 @@ EU SOMOS A MACAQUINHOS🐒🐒
 </div>
 <div style="margin-top: 50px;">
   <a style="margin-left:10px;" href="https://github.com/2damt-copernic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaimedina&layout=compact&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2damt-copernic&layout=compact&theme=synthwave" />
   </a>
 </div>
 
