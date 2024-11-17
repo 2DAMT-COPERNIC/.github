@@ -1,7 +1,6 @@
 ### Hello! 👋
 ##
 ### 🦔 About Us
-EU SOMOS A MACAQUINHOS🐒🐒
 ##
 ### 💻 Profile Stats
 <a href="https://github.com/2damt-copernic">
